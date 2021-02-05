@@ -1,6 +1,1 @@
-#include <stdio.h>
-
-int main()
-{
-    printf("hello git\n");
-}
+hello git from e1dc42c
